@@ -29,3 +29,6 @@ Colorectal cancer is a leading cause of cancer deaths globally. Early detection 
 1.  **The Clinical Winner:** Despite YOLOv11 being a newer architecture, **YOLOv8s outperformed it** in all clinical metrics for this dataset.
 2.  **The Learning:** YOLOv11s showed a massive **402% improvement** from pilot to final training, indicating high capacity for larger datasets (e.g., Hyper-Kvasir).
 3.  **The Robustness:** Using Test-Time Augmentation (TTA) to simulate surgical artifacts, YOLOv8s accuracy actually **increased from 0.82 to 0.84**, proving exceptional resilience to motion blur and glare.
+
+### Dataset Reference
+Jha, D., Smedsrud, P.H., Riegler, M.A., Halvorsen, P., de Lange, T., Johansen, D. and Johansen, H.D. (2020) 'Kvasir-seg: A segmented polyp dataset', in International Conference on Multimedia Modeling. Springer, pp. 451–462. Access Link: https://datasets.simula.no/kvasir-seg/#applications-of-the-dataset
